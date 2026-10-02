@@ -24,8 +24,9 @@ height: 30%;
 
 .content
 {
-height: 70%; 
-float: left;
+height: 100%; 
+ display: flex;
+flex-wrap: wrap;
 }
 
 
@@ -33,7 +34,6 @@ float: left;
 {
 padding: 5%;
 height: 100%; 
-float: left;
 width: 50%;
 }
 
@@ -44,6 +44,5 @@ color: #ffffff;
 text-align: right;
 padding: 5%;
 height: 100%;
-float: left;
 width: 50%;
 }
