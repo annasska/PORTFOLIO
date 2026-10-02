@@ -21,7 +21,7 @@ body {
   font-size: 145px;
   font-style: italic;
   padding: 20px;
-  height: 30vh; 
+  height: auto; 
 }
 
 .content {
