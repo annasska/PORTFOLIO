@@ -32,7 +32,6 @@ flex-wrap: wrap;
 
 .omnie 
 {
-padding: 5%;
 height: 100%; 
 width: 50%;
 }
@@ -42,7 +41,6 @@ width: 50%;
 background-color: #000000;
 color: #ffffff;
 text-align: right;
-padding: 5%;
 height: 100%;
 width: 50%;
 }
