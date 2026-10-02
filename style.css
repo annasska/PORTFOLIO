@@ -18,7 +18,7 @@ body {
 
 .hero {
   background-color: #BA9E7C;
-  font-size: 126px;
+  font-size: 125px;
   font-style: italic;
   padding: 20px;
   height: 35vh;
@@ -34,6 +34,10 @@ body {
   width: 50%;
   padding: 20px; 
   height: 100%;
+
+  display: flex;
+  flex-direction: column;    
+  justify-content: flex-end;
 }
 
 .contact {
