@@ -12,7 +12,7 @@ body {
 }
 
 #container {
-  height: 100vh;
+  min-height: 100vh;
   width: 100%;
 }
 
@@ -25,13 +25,11 @@ body {
 }
 
 .content {
-  height: 70vh;
   display: flex;
   flex-wrap: wrap;
 }
 
 .omnie {
-  height: 100%;
   width: 50%;
   padding: 20px; 
 }
@@ -40,7 +38,6 @@ body {
   background-color: #000000;
   color: #ffffff;
   text-align: right;
-  height: 100%;
   width: 50%;
   padding: 20px; 
 }
