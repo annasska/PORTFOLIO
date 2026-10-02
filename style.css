@@ -1,21 +1,17 @@
-body
-{
-height: 100vh;
+body {
 background-color: #ffffff;
 color: #000000;
 font-family: 'Lato', sans-serif;
 font-size: 16px;
 }
 
-#hero
-{
+#hero {
 height: auto;
 background-color: #BA9E7C;
 font-size: 80px;
 }
 
-#omnie
-{
+#omnie {
 font-size: 20px
 height: auto;
 }
