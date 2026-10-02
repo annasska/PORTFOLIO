@@ -16,9 +16,7 @@ body {
   width: 100%;
 }
 
-biale-imie {
-  color: #ffffff;
-}
+
 .hero {
   background-color: #BA9E7C;
   font-size: 150px;
@@ -26,6 +24,10 @@ biale-imie {
   padding: 20px;
   height: 35vh;
   text-align: right;
+}
+
+.hero span {
+ color: #ffffff;
 }
 
 .content {
