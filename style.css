@@ -9,7 +9,7 @@ height: 100vh;
 #hero {
 height: auto;
 background-color: #BA9E7C;
-font-size: 140px;
+font-size: 130px;
 padding: 20px;
 height: 30vh;
 }
@@ -20,18 +20,20 @@ width: 100%;
 }
 
 
-#omnie {
+.omnie {
 font-size: 24px;
+line-height: 24px;
 padding: 10%;
 float: left;
 height: 100%;
 width: 50%;
 }
 
-#contact {
+.contact {
 background-color: #000000;
 color: #ffffff;
 font-size: 24px;
+line-height: 24px;
 text-align: right;
 padding: 10%;
 float: left;
