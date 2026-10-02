@@ -33,8 +33,7 @@ body {
    font-size: 150px;
 }
 
-.hero .nazwisko {
-  font-weight: bold; 
+.hero .nazwisko { 
   color: #000000;
   font-size: 180px;
   font-family: 'Josefine Sans', sans-serif;
