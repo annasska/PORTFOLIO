@@ -16,9 +16,12 @@ body {
   width: 100%;
 }
 
+biale-imie {
+  color: #ffffff;
+}
 .hero {
   background-color: #BA9E7C;
-  font-size: 145px;
+  font-size: 150px;
   font-style: italic;
   padding: 20px;
   height: 35vh;
