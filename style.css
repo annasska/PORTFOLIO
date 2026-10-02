@@ -7,14 +7,22 @@ font-size: 16px;
 
 #hero {
 height: auto;
+width: 100%;
 background-color: #BA9E7C;
 font-size: 100px;
 padding: 20px;
 }
 
+#container {
+height: auto;
+width: 100%;  
+}
+
+
 #omnie {
 font-size: 20px
 height: auto;
+width: 50%;
 padidng: 20px;
 float: left;
 }
@@ -24,6 +32,7 @@ background-color: #000000;
 color: #ffffff;
 font-size: 20px
 height: auto;
+width: 50px;
 padidng: 20px;
 float: left;
 }
