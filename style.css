@@ -13,11 +13,12 @@ margin: 0px;
 height: auto;
 background-color: #BA9E7C;
 font-size: 160px;
+font-style: italic;
 padding: 20px;
 height: 30vh;
 }
 
-#container 
+.container 
 {
 height: 70vh; 
 float: left;
