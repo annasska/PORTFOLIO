@@ -3,11 +3,11 @@ background-color: #ffffff;
 color: #000000;
 font-family: 'Lato', sans-serif;
 font-size: 16px;
+height: 100vh;
 }
 
 #hero {
 height: auto;
-width: 100%;
 background-color: #BA9E7C;
 font-size: 100px;
 padding: 20px;
@@ -23,7 +23,7 @@ width: 100%;
 font-size: 20px
 height: auto;
 width: 50%;
-padidng: 20px;
+padidng: 40px;
 float: left;
 }
 
@@ -33,6 +33,6 @@ color: #ffffff;
 font-size: 20px
 height: auto;
 width: 50%;
-padidng: 20px;
+padidng: 40px;
 float: left;
 }
