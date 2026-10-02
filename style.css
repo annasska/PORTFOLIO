@@ -32,7 +32,6 @@ body {
 .omnie {
   width: 50%;
   padding: 20px; 
-  line-height: 1.6;
 }
 
 .contact {
@@ -41,7 +40,6 @@ body {
   text-align: right;
   width: 50%;
   padding: 20px; 
-  line-height: 1.6;
   display: flex;
   flex-direction: column;    
   justify-content: flex-end;
