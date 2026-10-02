@@ -1,46 +1,44 @@
-body 
-{
-background-color: #ffffff;
-color: #000000;
-font-family: 'Lato', sans-serif;
-font-size: 25px;
-margin: 0px;
-padding: 0px;
+* {
+ box-sizing: border-box; /* Zabezpieczenie na przyszłość dla paddingów */
 }
 
-#container
-{
-min-height: 100vh;
-display: flex;
-flex-direction: column;
+body {
+  background-color: #ffffff;
+  color: #000000;
+  font-family: 'Lato', sans-serif;
+  font-size: 25px;
+  margin: 0; /* NAPRAWIONE: Usuwa domyślny margines przeglądarki */
+  padding: 0;
 }
 
-.hero 
-{
-background-color: #BA9E7C;
-font-size: 145px;
-font-style: italic;
-padding: 20px;
+#container {
+  min-height: 100vh; /* NAPRAWIONE: min-height zamiast height zapobiega ucinaniu strony */
+  display: flex;
+  flex-direction: column; /* Układa .hero oraz .content jeden pod drugim */
 }
 
-.content
-{
-flex-grow: 1; 
-display: flex;
-flex-wrap: wrap;
+.hero {
+  background-color: #BA9E7C;
+  font-size: 145px;
+  font-style: italic;
+  padding: 20px;
 }
 
-.omnie 
-{
-width: 50%;
-padding: 20px;
+.content {
+  flex-grow: 1; /* NAPRAWIONE: Sprawia, że kafelki zajmują CAŁĄ pozostałą wysokość ekranu */
+  display: flex;
+  flex-wrap: wrap;
 }
 
-.contact 
-{
-background-color: #000000;
-color: #ffffff;
-text-align: right;
-width: 50%;
-padding: 20px;
+.omnie {
+  width: 50%;
+  padding: 20px; /* Dodane dla lepszego wyglądu tekstu */
+}
+
+.contact {
+  background-color: #000000;
+  color: #ffffff;
+  text-align: right;
+  width: 50%;
+  padding: 20px; /* Dodane dla lepszego wyglądu tekstu */
 }
