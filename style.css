@@ -11,7 +11,7 @@ height: auto;
 background-color: #BA9E7C;
 font-size: 100px;
 padding: 20px;
-height: 40vh;
+height: 30vh;
 }
 
 #container {
@@ -23,7 +23,6 @@ height: 60vh;
 
 #omnie {
 font-size: 20px
-height: auto;
 width: 50%;
 padidng: 40px;
 float: left;
@@ -33,7 +32,6 @@ float: left;
 background-color: #000000;
 color: #ffffff;
 font-size: 20px
-height: auto;
 width: 50%;
 padidng: 40px;
 float: left;
