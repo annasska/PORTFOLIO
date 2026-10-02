@@ -21,12 +21,13 @@ body {
   font-size: 120px;
   font-style: italic;
   padding: 20px;
-  height: auto; 
+  height: 35vh;
 }
 
 .content {
   display: flex;
   flex-wrap: wrap;
+  height: 65vh;
 }
 
 .omnie {
@@ -43,5 +44,6 @@ body {
   display: flex;
   flex-direction: column;    
   justify-content: flex-end;
+  height: 100%;
 }
 
