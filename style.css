@@ -21,16 +21,16 @@ height: 30vh;
 #container 
 {
 height: 70vh; 
-width: 100%;
+display: flex;
+flex-wrap: wrap;       
+gap: 20px; 
 }
 
 
 .omnie 
 {
 padding: 5%;
-height: 100%;
-width: 40%;
-float: left;
+height: 100%; 
 }
 
 .contact 
@@ -40,6 +40,4 @@ color: #ffffff;
 text-align: right;
 padding: 5%;
 height: 100%;
-width: 40%;
-float: left;
 }
