@@ -36,14 +36,13 @@ body {
 .content {
   display: flex;
   flex-wrap: wrap;
-  height: calc(100vh - 35vh);
+  flex-grow: 1;
 }
 
 .omnie {
   width: 50%;
-  padding: 20px; 
+  padding: 50px; 
   height: 100%;
-
   display: flex;
   flex-direction: column;    
   justify-content: flex-end;
@@ -54,9 +53,8 @@ body {
   color: #ffffff;
   text-align: right;
   width: 50%;
-  padding: 20px; 
+  padding: 50px; 
   height: 100%;
-
   display: flex;
   flex-direction: column;    
   justify-content: flex-end;
