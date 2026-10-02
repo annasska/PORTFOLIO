@@ -28,6 +28,8 @@ body {
 
 .hero span {
  color: #ffffff;
+ position: relative;
+z-index: 10; 
 }
 
 .content {
