@@ -20,7 +20,6 @@ body {
 
 .hero {
   background-color: #67f082;
-  font-size: 170px;
   font-style: italic;
   padding: 20px;
   height: 35vh;
@@ -31,11 +30,13 @@ body {
   color: #ffffff;
   position: relative;
   z-index: 10; 
+   font-size: 160px;
 }
 
 .hero .nazwisko {
  font-weight: bold; 
  color: #000000;
+  font-size: 175px;
 }
 
 .content {
