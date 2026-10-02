@@ -17,5 +17,11 @@ display: flex;
 
 #hero
 {
-
+height: 20vh;
+background-color: rosybrown;
+font-size: 100%;
+align-content: center;
+justify-content: center;
+flex-direction: column;
+display: flex;
 }
