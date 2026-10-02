@@ -22,6 +22,7 @@ body {
   font-style: italic;
   padding: 20px;
   height: 35vh;
+  text-align: right;
 }
 
 .content {
