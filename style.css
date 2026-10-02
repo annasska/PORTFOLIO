@@ -8,7 +8,7 @@ height: 100vh;
 margin: 0px;
 }
 
-#hero 
+.hero 
 {
 height: auto;
 background-color: #BA9E7C;
@@ -18,7 +18,7 @@ padding: 20px;
 height: 30vh;
 }
 
-.container 
+.content
 {
 height: 70vh; 
 float: left;
