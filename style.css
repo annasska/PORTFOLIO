@@ -12,8 +12,7 @@ margin: 0px;
 {
 height: auto;
 background-color: #BA9E7C;
-font-family: 'Josefin Sans', sans-serif;
-font-size: 140px;
+font-size: 160px;
 padding: 20px;
 height: 30vh;
 }
@@ -21,9 +20,7 @@ height: 30vh;
 #container 
 {
 height: 70vh; 
-display: flex;
-flex-wrap: wrap;       
-gap: 20px; 
+float: left;
 }
 
 
@@ -31,6 +28,7 @@ gap: 20px;
 {
 padding: 5%;
 height: 100%; 
+float: left;
 }
 
 .contact 
@@ -40,4 +38,5 @@ color: #ffffff;
 text-align: right;
 padding: 5%;
 height: 100%;
+float: left;
 }
