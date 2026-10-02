@@ -21,7 +21,7 @@ body {
 .hero {
   background-color: #67f082;
   font-style: italic;
-  padding: 20px;
+  padding: 50px;
   height: 35vh;
   text-align: right;
 }
@@ -37,9 +37,9 @@ body {
 
 .hero .nazwisko { 
   color: #303030;
-  font-size: 180px;
+  font-size: 175px;
   font-family: 'Josefin Sans', sans-serif;
-  letter-spacing: 10px;
+  letter-spacing: 12px;
 }
 
 .content {
