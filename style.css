@@ -8,10 +8,12 @@ font-size: 16px;
 #hero {
 height: auto;
 background-color: #BA9E7C;
-font-size: 80px;
+font-size: 100%;
+padding: 20px;
 }
 
 #omnie {
 font-size: 20px
 height: auto;
+padidng: 20px;
 }
